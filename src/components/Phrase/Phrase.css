@@ -1,0 +1,8 @@
+.phrase_container{
+    min-width: 280px;
+    max-width: 500px;
+    background: #1f1f1f;
+    color: #f8f8f8;
+    padding: 70px 33px;
+    border-radius: 39px;
+}
